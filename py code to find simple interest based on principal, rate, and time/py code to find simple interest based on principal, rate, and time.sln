@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "py code to find simple interest based on principal, rate, and time", "py code to find simple interest based on principal, rate, and time.pyproj", "{2B7D3F94-75A6-40B7-8E15-AA5298064298}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B7D3F94-75A6-40B7-8E15-AA5298064298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B7D3F94-75A6-40B7-8E15-AA5298064298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99B9D3FE-A149-448D-9219-277E6D827255}
+	EndGlobalSection
+EndGlobal
